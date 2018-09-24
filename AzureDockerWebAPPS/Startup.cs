@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace AzureDockerWebAPPS
 {
+    //test
     public class Startup
     {
         public Startup(IConfiguration configuration)
